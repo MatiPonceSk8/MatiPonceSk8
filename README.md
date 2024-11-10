@@ -12,7 +12,7 @@ const aboutMe = {
   code: [C, Java, Haskell, Dafny],
   tools: [not yet],
   lenguages: [spanish, english],
-  from: [argentina],
+  from: [argentina 🇦🇷],
   love: {
           skating 🛹,
           code </💻>,
