@@ -18,7 +18,7 @@ const aboutMe = {
           code </💻>,
           tecnologie 🤖,
           travel 🌍,
-                      },
+                      }
  challenge: "day by day be better at what i love </>"
 }
 ```
