@@ -1,40 +1,34 @@
-<h1 align="center">Hi , I'm Matias Ponce <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Matias Ponce <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=im+a+Computer+Science+Student;Aspiring+Developer;&center=true&width=500&height=50"></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=Creative+Developer;Computer+Science+Student;Building+Digital+Experiences;Logic+meets+Art">
+  </a>
+</p>
 
-[![image](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatiPonceSk8)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mati.ponce___/)
+<p align="center">
+  <a href="https://github.com/MatiPonceSk8">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/mati.ponce___/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/matias-ponce">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ## 
 ```javascript
 const aboutMe = {
-  name: mati,
-  code: [C, Java, Haskell, Dafny],
-  tools: [not yet],
-  lenguages: [spanish, english],
-  from: [argentina 🇦🇷],
-  love: {
-          skating 🛹,
-          code </💻>,
-          tecnologie 🤖,
-          travel 🌍,
-                      }
- challenge: "day by day be better at what i love </>"
+  name: "Matias Ponce",
+  role: "Creative Developer",
+  stack: {
+    languages: ["JavaScript", "Java", "Haskell", "C", "SQL"],
+    frontend:  ["React", "Tailwind", "GSAP", "Anime.js", "WebGL"],
+    backend:   ["Node.js", "Express"],
+    tools:     ["Git", "Docker", "Figma", "macOS"]
+  },
+  learning: "Advanced Software Architecture & Creative Coding",
+  challenge: "Transmuting abstract logic into tangible art."
 }
-```
-## 
-<a href="https://open.spotify.com/intl-es/artist/0k17h0D3J5VfsdmQ1iZtE9" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" width="100" height="29"></a> my favorite on spotidy 🤍
-
-## My Skills Include
-
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
-  
-</span>
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</span>
